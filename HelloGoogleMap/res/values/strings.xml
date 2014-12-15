@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMapTuto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	 <string name="mapKey">AIzaSyBrWuyLh5qp4cIlTsbHNVLiQM8Rs1Qko60</string>
+	  <string name="title_activity_login_display">LoginDisplayActivity</string>
+</resources>
